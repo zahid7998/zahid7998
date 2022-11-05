@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zahid7998
 - 👀 I’m interested in ... android system modification 
 - 🌱 I’m currently learning ... Network system security 
-- 💞️ I’m looking to collaborate on ...any kind of android system modification project 
+- 💞️ I’m looking foeward to collaborate on ...any kind of android system modification project 
 - 📫 How to reach me ...fb.com/@zahid798
 
 <!---
